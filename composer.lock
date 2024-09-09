@@ -2045,16 +2045,16 @@
         },
         {
             "name": "twilio/sdk",
-            "version": "8.2.0",
+            "version": "8.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twilio/twilio-php.git",
-                "reference": "e634588785d07cf7db584fa3b73203406e11064e"
+                "reference": "da842421814abaacb1c57eaacd7e8de19bbdbee6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twilio/twilio-php/zipball/e634588785d07cf7db584fa3b73203406e11064e",
-                "reference": "e634588785d07cf7db584fa3b73203406e11064e",
+                "url": "https://api.github.com/repos/twilio/twilio-php/zipball/da842421814abaacb1c57eaacd7e8de19bbdbee6",
+                "reference": "da842421814abaacb1c57eaacd7e8de19bbdbee6",
                 "shasum": ""
             },
             "require": {
@@ -2092,9 +2092,9 @@
             ],
             "support": {
                 "issues": "https://github.com/twilio/twilio-php/issues",
-                "source": "https://github.com/twilio/twilio-php/tree/8.2.0"
+                "source": "https://github.com/twilio/twilio-php/tree/8.3.0"
             },
-            "time": "2024-06-20T10:39:28+00:00"
+            "time": "2024-09-05T13:01:28+00:00"
         }
     ],
     "packages-dev": [
